@@ -8,15 +8,15 @@ Through expert guidance and distraction-free tech, working with Colark allows a 
 
 ## Technologies Used
 
-Colark was built with Gatsby.js, Express, React, and NodeJS. The project also uses images created in Figma and features from Bootstrap library.
+Colark was built with Unstack, Express, React, and NodeJS. The project also uses images created in Figma and features from Bootstrap library.
 
 This project was deployed with [netlify](https://www.netlify.com).
 
 ## Development Setup:
 
 `npm i` <br>
-`npm i gatsby-cli -g` <br>
-`gatsby develop`
+<!-- `npm i gatsby-cli -g` <br>
+`gatsby develop` -->
 
 ### Landing Page:
 
