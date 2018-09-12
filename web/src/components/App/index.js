@@ -9,7 +9,7 @@ const App = () => (
     <BasicPage>
       <Route path="/" component={LandingPage}/>
       <Route path="*" component={NotFoundPage}/>
-    <BasicPage>
+    </BasicPage>
   </div>
 );
 
