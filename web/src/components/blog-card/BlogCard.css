@@ -1,5 +1,3 @@
- 
-
 .blog-card {
   display: inline-block;
   height: 300px;
@@ -7,4 +5,7 @@
   color: var(--contrastcolor);
   margin: 20px;
   border-radius: var(--roundedcorners);
+}
+
+.blog-card__title, .blog-card__author {
 }

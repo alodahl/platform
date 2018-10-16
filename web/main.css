@@ -1,8 +1,13 @@
+@import 'slick-carousel/slick/slick.css';
+@import 'slick-carousel/slick/slick-theme.css';
 @import '/global.css';
 @import '/src/components/Navbar/navbar.css';
 @import '/src/components/RocketPyramid/RocketPyramid.css';
 @import '/src/components/View/View.css';
+@import '/src/components/blog-article/BlogArticle.css';
 @import '/src/components/blog-card/BlogCard.css';
+@import '/src/components/blog-list/BlogList.css';
+@import '/src/components/blog-menu/BlogMenu.css';
 @import '/src/components/blog-section/BlogSection.css';
 @import '/src/components/blog-slider/BlogSlider.css';
 @import '/src/components/blue-wave-bottom/BlueWaveBottom.css';

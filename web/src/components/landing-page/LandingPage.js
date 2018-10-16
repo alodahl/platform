@@ -7,6 +7,7 @@ import Partners from '../partners/Partners';
 import Projects from '../Projects';
 // import Contact from '../Contact';
 // import Subscription from '../Subscription';
+import BlogSection from '../blog-section/BlogSection';
 
 const LandingPage = () => (
   <div>
@@ -15,6 +16,7 @@ const LandingPage = () => (
       <Projects/>
       {/* <Subscription/> */}
       <Partners/>
+      <BlogSection />
       <BlueWaveBottom/>
       {/* <Contact/> */}
       <Team/>
